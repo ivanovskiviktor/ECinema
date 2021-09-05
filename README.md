@@ -1,2 +1,2 @@
 # ECinema
-.NET Core online cinema 
+.NET Core online cinema for buying tickets

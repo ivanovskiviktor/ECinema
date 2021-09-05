@@ -1,0 +1,42 @@
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Services.deps.json
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Services.dll
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Services.pdb
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Domain.dll
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Repository.dll
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Repository.pdb
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Domain.pdb
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.AssemblyInfo.cs
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.csproj.CopyComplete
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.dll
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.pdb
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Services.deps.json
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Services.dll
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Services.pdb
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Domain.dll
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Repository.dll
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Repository.pdb
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Domain.pdb
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.AssemblyInfo.cs
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.csproj.CopyComplete
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.dll
+C:\Users\DELL\Desktop\6ти семестар\Интегрирани системи\181121_Домашна1\CinemaIsDomasna\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.pdb
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Services.deps.json
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Services.dll
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Services.pdb
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Domain.dll
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Repository.dll
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Repository.pdb
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\bin\Debug\netcoreapp3.1\Ecinema.Domain.pdb
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.csproj.CopyComplete
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.dll
+C:\Users\DELL\Desktop\ECinema\TicketShop.Services\obj\Debug\netcoreapp3.1\Ecinema.Services.pdb

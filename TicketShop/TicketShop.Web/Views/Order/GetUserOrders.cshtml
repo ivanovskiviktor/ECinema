@@ -1,0 +1,35 @@
+﻿@model List<TicketShop.Domain.DomainModels.Order>
+
+<div class="container">
+
+
+    <table class="table mt-5">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Customer Details</th>
+                <th scope="col">Number of tickets</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                var item = Model[i];
+
+                <tr>
+                    <th scope="row">@(i+1)</th>
+                    <td>@item.User.Email</td>
+                    <td>@item.TicketInOrders.Count()</td>
+                    <td><a class="btn btn-secondary" asp-action="Details" asp-route-id="@item.Id">Details</a></td>
+                    <td><a class="btn btn-secondary" asp-action="CreateInvoice" asp-route-id="@item.Id">Create Invoice</a></td>
+                </tr>
+
+            }
+        </tbody>
+
+
+    </table>
+
+</div>

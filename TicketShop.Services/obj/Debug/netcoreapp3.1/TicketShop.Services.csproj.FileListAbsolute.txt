@@ -1,0 +1,28 @@
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Services.deps.json
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Services.dll
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Services.pdb
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Domain.dll
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Repository.dll
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Repository.pdb
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Domain.pdb
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.dll
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.pdb
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Services.deps.json
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Services.dll
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Services.pdb
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Domain.dll
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Repository.dll
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Repository.pdb
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\bin\Debug\netcoreapp3.1\TicketShop.Domain.pdb
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.AssemblyInfo.cs
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.csproj.CopyComplete
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.dll
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop.Services\obj\Debug\netcoreapp3.1\TicketShop.Services.pdb

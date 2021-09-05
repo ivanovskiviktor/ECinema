@@ -1,0 +1,18 @@
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop\TicketShop.Domain\bin\Debug\netcoreapp3.1\TicketShop.Domain.deps.json
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop\TicketShop.Domain\bin\Debug\netcoreapp3.1\TicketShop.Domain.dll
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop\TicketShop.Domain\bin\Debug\netcoreapp3.1\TicketShop.Domain.pdb
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.dll
+C:\Users\Windows 10\Desktop\Lab1\TicketShop\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.pdb
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\bin\Debug\netcoreapp3.1\TicketShop.Domain.deps.json
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\bin\Debug\netcoreapp3.1\TicketShop.Domain.dll
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\bin\Debug\netcoreapp3.1\TicketShop.Domain.pdb
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.AssemblyInfo.cs
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.dll
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\TicketShop.Domain.pdb

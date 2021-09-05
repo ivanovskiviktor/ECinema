@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DELL\\Downloads\\CinemaTickets\\TicketShop\\TicketShop.Web\\E-cinema.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DELL\\Downloads\\CinemaTickets\\TicketShop\\TicketShop.Web\\E-cinema.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELL\\Downloads\\CinemaTickets\\TicketShop\\TicketShop.Web\\E-cinema.Web.csproj",
+        "projectName": "E-cinema.Web",
+        "projectPath": "C:\\Users\\DELL\\Downloads\\CinemaTickets\\TicketShop\\TicketShop.Web\\E-cinema.Web.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\Downloads\\CinemaTickets\\TicketShop\\TicketShop.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\DELL\\Downloads\\CinemaTickets\\E-cinema.Repository\\E-cinema.Repository.csproj": {
+                "projectPath": "C:\\Users\\DELL\\Downloads\\CinemaTickets\\E-cinema.Repository\\E-cinema.Repository.csproj"
+              },
+              "C:\\Users\\DELL\\Downloads\\CinemaTickets\\E-cinema.Services\\E-cinema.Services.csproj": {
+                "projectPath": "C:\\Users\\DELL\\Downloads\\CinemaTickets\\E-cinema.Services\\E-cinema.Services.csproj"
+              },
+              "C:\\Users\\DELL\\Downloads\\CinemaTickets\\TicketShop\\E-cinema.Domain\\E-cinema.Domain.csproj": {
+                "projectPath": "C:\\Users\\DELL\\Downloads\\CinemaTickets\\TicketShop\\E-cinema.Domain\\E-cinema.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.4, )"
+            },
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "GemBox.Document": {
+              "target": "Package",
+              "version": "[33.0.1187, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[39.45.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

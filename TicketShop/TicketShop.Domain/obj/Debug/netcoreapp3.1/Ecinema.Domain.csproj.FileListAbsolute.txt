@@ -1,0 +1,17 @@
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\bin\Debug\netcoreapp3.1\Ecinema.Domain.deps.json
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\bin\Debug\netcoreapp3.1\Ecinema.Domain.dll
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\bin\Debug\netcoreapp3.1\Ecinema.Domain.pdb
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\Ecinema.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\Ecinema.Domain.AssemblyInfo.cs
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\Ecinema.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\Ecinema.Domain.dll
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\Ecinema.Domain.pdb
+C:\Users\DELL\Desktop\ECinema\TicketShop\TicketShop.Domain\bin\Debug\netcoreapp3.1\Ecinema.Domain.deps.json
+C:\Users\DELL\Desktop\ECinema\TicketShop\TicketShop.Domain\bin\Debug\netcoreapp3.1\Ecinema.Domain.dll
+C:\Users\DELL\Desktop\ECinema\TicketShop\TicketShop.Domain\bin\Debug\netcoreapp3.1\Ecinema.Domain.pdb
+C:\Users\DELL\Desktop\ECinema\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\Ecinema.Domain.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\ECinema\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\Ecinema.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ECinema\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\Ecinema.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ECinema\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\Ecinema.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ECinema\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\Ecinema.Domain.dll
+C:\Users\DELL\Desktop\ECinema\TicketShop\TicketShop.Domain\obj\Debug\netcoreapp3.1\Ecinema.Domain.pdb
